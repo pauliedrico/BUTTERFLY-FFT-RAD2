@@ -2,3 +2,5 @@
 A radix-2 fft implementation in VHDL exploiting differents BUTTERFLY units 
 
 More details in Report.pdf
+
+Academic Year : 2022
